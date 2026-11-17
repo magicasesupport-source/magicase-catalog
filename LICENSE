@@ -1,0 +1,50 @@
+MagiCase Catalog Limited-Use License 1.0
+License identifier: LicenseRef-MagiCase-Catalog-1.0
+
+Copyright (c) 2026 Tiago Oliveira, to the extent applicable rights subsist.
+
+1. Scope
+This notice applies only to original MagiCase documentation, original selection,
+arrangement and packaging, and any protectable rights held by Tiago Oliveira in
+the prepared catalog and its updates. Public access does not grant a general
+license to incorporate those protected materials into another product.
+
+2. Permitted use
+You may download, install, cache and make backup copies of the prepared catalog
+as needed to use the MagiCase application for card recognition, collection and
+deck management, trading-related personal activities and gameplay. This permission
+does not prevent ordinary end-user use of MagiCase in a commercial setting.
+You may inspect the public documentation and report problems to the maintainer.
+
+3. Additional uses require permission
+Except for the permissions above, applicable mandatory law, GitHub's service
+terms and third-party rights, no permission is granted to redistribute or sell
+the protected catalog, publish mirrors, sublicense it, incorporate it into
+another application or service, or use the protected compilation to build a
+separate commercial or noncommercial product. Written permission may be requested
+at magicase.support@gmail.com. Keep applicable notices with permitted copies.
+
+4. Third-party and unprotected material
+No ownership is claimed over Magic: The Gathering names, card text, artwork,
+trademarks, Scryfall identifiers or metadata, DINOv2 model weights, other third-
+party materials, or facts and automatically generated data that are not legally
+protectable. Their owners' rights, applicable licenses and lawful independent
+uses remain unaffected. This notice does not relicense those materials or create
+exclusive rights where none exist. Model/library licenses apply to those
+components independently; the catalog package does not include model weights
+or original card artwork. No endorsement by Wizards of the Coast, Scryfall,
+Meta or GitHub is implied.
+
+5. GitHub and statutory permissions
+Nothing in this notice withdraws permissions expressly granted by publishing
+on GitHub under its terms, including viewing and forking through the service.
+Those platform permissions do not by themselves create an additional license
+for uses outside their scope. Mandatory exceptions, lawful use of unprotected
+data, and any overriding third-party license remain available.
+
+6. Application source and limitations
+No MagiCase application source code is provided or licensed by this repository.
+This notice does not alter licenses applying to any existing application version.
+The catalog is supplied without a guarantee of completeness, identification
+accuracy or uninterrupted updates, to the extent permitted by applicable law.
+Mandatory consumer rights are not excluded.
