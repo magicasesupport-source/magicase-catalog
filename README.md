@@ -11,21 +11,22 @@ exceptions. Viewing and forking through GitHub remain subject to GitHub's terms.
 
 - Public documentation, licensing and provenance notices.
 - Prepared data packages and update feeds will be distributed as release assets.
-- The full production catalog has not yet been generated or published.
+- Coverage is declared in each release manifest. Check Releases for the currently
+  available catalog versions.
 - No MagiCase application source, API tokens, user collections or original card
   artwork are included in this repository.
 
-The development prototype currently has a separate initial Foundations pack with
-771 references. That limited pack is not a complete MTG catalog or a production
-automatic-update service.
+The first development pack covered Foundations with 771 references. That limited
+pack is not a complete MTG catalog. A completed full-scope release is required
+before treating the feed as a complete paper-card catalog.
 
 ## How updates work
 
-The maintainer's checks Scryfall's paper-card data, prepares missing or
+The maintainer's computer checks Scryfall's paper-card data, prepares missing or
 changed visual references, and publishes a complete snapshot plus incremental
 updates. MagiCase checks the published feed and installs the required data.
 Updating catalog data does not require publishing a new application version.
-Until the initial production release is available, no live update feed is promised.
+The live feed becomes available when the first complete catalog release is published.
 
 ## Rights and provenance
 
