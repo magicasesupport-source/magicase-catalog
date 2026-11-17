@@ -21,7 +21,7 @@ automatic-update service.
 
 ## How updates work
 
-The maintainer's computer checks Scryfall's paper-card data, prepares missing or
+The maintainer's checks Scryfall's paper-card data, prepares missing or
 changed visual references, and publishes a complete snapshot plus incremental
 updates. MagiCase checks the published feed and installs the required data.
 Updating catalog data does not require publishing a new application version.
